@@ -1,6 +1,6 @@
 --Key Features:
 
--Comprehensive SQL queries for retrieving and analyzing COVID-19 data.
+-Comprehensive SQL queries for retrieving and analyzing COVID-19 data.<br>
 -Data aggregation, transformation, and visualization techniques.
 -Insights into global and country-level COVID-19 statistics.
 -Usage of advanced SQL concepts such as joins, aggregations, and window functions.
